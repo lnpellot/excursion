@@ -1,16 +1,23 @@
 body {
-    background-color: black;
-}
-h1, h2, p {
-  font-family: Verdana;
+  background-color: black;
   text-align: center;
+  font-family: Verdana;
 }
-h1 {
+.header {
   font-size: 50px;
   color: white;
 }
-h2 {
+.download {
   font-size: 16px;
   color: Aquamarine;
-  text-align: center;
+}
+.guide {
+  font-size: 42px;
+  font-weight:  300;
+  color: white;
+}
+.places {
+  font-size: 21px;
+  color: gray;
+
 }
