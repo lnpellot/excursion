@@ -9,7 +9,6 @@ body {
 }
 .download {
   font-size: 16px;
-  color: Aquamarine;
 }
 .guide {
   font-size: 42px;
@@ -19,4 +18,12 @@ body {
 .places {
   font-size: 21px;
   color: gray;
+}
+a {
+  color: Aquamarine;
+}
+footer {
+  display: block;
+  color: gray;
+  text-align: right;
 }
